@@ -45,7 +45,7 @@ class DashboardOverview extends StatelessWidget {
             OverviewTaskContainer(
                 cardTitle: "Total Projects",
                 numberOfItems: "8",
-                imageUrl: "assets/cone.png",
+                imageUrl: "assets/icon/logo.png",
                 backgroundColor: HexColor.fromHex("EDA7FA")),
           ],
         ),

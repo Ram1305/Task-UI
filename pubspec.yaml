@@ -75,5 +75,6 @@ flutter:
   assets:
     - assets/
     - assets/memoji/
+    - assets/icon/
 
 
