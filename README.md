@@ -1,19 +1,5 @@
-# task
+Developing a  (CRM) application to manage customer task, sales,project report and tasks effectively using Flutter.',
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![task](https://github.com/user-attachments/assets/4b3560c1-fbad-40ad-a279-e05c84ef0c80)
 ![1723885344169-portrait](https://github.com/user-attachments/assets/864182a5-4b72-409f-9f60-daf46fc53e0a)
 ![1723885344181-portrait](https://github.com/user-attachments/assets/8b455412-2e2a-417b-b1e4-4aaefc38915a)
